@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;FullStack+Web+Developer;Blockchain%20|%20AI%20|%20ML%20Enthusiast;Community%20Manager;Trainer%20at%20Simplon;Always%20learning%20new%20things&center=true&width=500&height=50">
 </p>
 <hr/>
-<h4 align="center">I am a Juslin at Ivory Coast pursuing Big Data Analytics in at Virtual University of Ivory Coast. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a Juslin at Ivory Coast pursuing <a href="https://www.ibm.com/topics/benefits-of-blockchain">Blockchain</a> in at Virtual University of Ivory Coast. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juslin03&label=Profile%20views&color=0e75b6&style=plastic" alt="Juslin" /> </p>
 
