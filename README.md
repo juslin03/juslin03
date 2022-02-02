@@ -145,8 +145,8 @@
 	<a href="https://www.facebook.com/prince.juslin"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/j_komenan"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://www.youtube.com/channel/UCB8WtlLeyHlB3e0RaSDopEA"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	<a href="https://www.twitter.com/j_Komenan"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://www.twitter.com/MisterJuslin"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 <hr/>
 * Credits: [Juslin Komenan](https://github.com/juslin03)<br/>
-* Last Edited on: 14/08/2021
+* Last Edited on: 02/02/2022
