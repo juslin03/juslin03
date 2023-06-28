@@ -29,6 +29,10 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/TypeScript%20-%56F7DF1E.svg?logo=typescript&logoColor=black">
+   </a>
+  &emsp;
   <a href="https://nodejs.org" target="_blank"> 
     <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
   </a>
