@@ -115,7 +115,7 @@
 
 ## 📊 Github Stats (Expand to View) 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  ### <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <img alt="Juslin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=juslin03&show_icons=true&count_private=true&theme=algolia" height="192px"/>
@@ -126,7 +126,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  ### <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <img alt="Juslin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=juslin03&custom_title=Juslin%20Komenan's%20Contribution%20Graph&theme=react-dark" />
   <br/>
