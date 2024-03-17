@@ -133,7 +133,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <img alt="Juslin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=juslin03&custom_title=Juslin%20Komenan's%20Contribution%20Graph&theme=react-dark" />
+   <img alt="Juslin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=juslin03&custom_title=Juslin%20Komenan's%20Contribution%20Graph&theme=react-dark" />
   <br/>
 
 </details>
