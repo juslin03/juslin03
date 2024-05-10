@@ -22,7 +22,7 @@
 <p align="left"> 
   &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/TypeScript%20-%56F7DF1E.svg?logo=typescript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/TypeScript-blue.svg?logo=typescript&logoColor=white">
    </a>
   &emsp;
   <a href="https://deno.land/" target="_blank"> 
@@ -47,7 +47,15 @@
 </p>
 
 ### 👉 Frontend Development
-<p align="left"> 
+<p align="left">
+&emsp;
+  <a href="https://kit.svelte.dev" target="_blank"> 
+    <img alt="Sveltejs" src="https://img.shields.io/badge/-SvelteKit-ff3e00?style=flat&logo=Svelte&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://reactjs.org" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
+  </a>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -63,14 +71,6 @@
    &emsp;
   <a href="https://tailwindcss.com" target="_blank"> 
     <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-06B6D4?style=flat&logo=Tailwindcss&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://kit.svelte.dev" target="_blank"> 
-    <img alt="Sveltejs" src="https://img.shields.io/badge/-SvelteKit-ff3e00?style=flat&logo=Svelte&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://reactjs.org" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
   </a>
 </p>
 
