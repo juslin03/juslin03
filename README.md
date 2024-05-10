@@ -20,17 +20,17 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp; 
+  &emsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/TypeScript%20-%56F7DF1E.svg?logo=typescript&logoColor=black">
+   </a>
+  &emsp;
   <a href="https://deno.land/" target="_blank"> 
     <img alt="Deno" src="https://img.shields.io/badge/Deno-000.svg?logo=Deno&logoColor=white">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/TypeScript%20-%56F7DF1E.svg?logo=typescript&logoColor=black">
    </a>
   &emsp;
   <a href="https://nodejs.org" target="_blank"> 
